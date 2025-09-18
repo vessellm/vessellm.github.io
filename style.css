@@ -1,3 +1,17 @@
 body {
-    background-color: darkcyan;
+    background-color: rgb(255, 255, 255);
+}
+section{
+    padding-top:200px;
+}
+
+#styledtable{
+    border-collapse:collapse;
+}
+
+#styledtable td{
+    border: 2px dashed #000000;
+    width: 800px;
+    height: 400px;
+    text-align: center;
 }
