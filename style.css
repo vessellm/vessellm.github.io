@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: #fcf4dc
 }
 section{
     padding-top:200px;
@@ -10,8 +10,13 @@ section{
 }
 
 #styledtable td{
-    border: 2px dashed #000000;
-    width: 800px;
-    height: 400px;
+    border: 2px solid #000000;
+    width: 60px;
+    height: 40px;
     text-align: center;
+}
+
+#title{
+    width:20px;
+    height:30px;
 }
