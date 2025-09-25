@@ -1,0 +1,11 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+</style>
+
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:"Special+Elite";
+    font-size: 20pt
+}
