@@ -1,5 +1,5 @@
 body {
-    background-color: #fcf4dc
+    background-color: white;
 }
 section{
     padding-top:200px;
@@ -10,13 +10,18 @@ section{
 }
 
 #styledtable td{
-    border: 2px solid #000000;
-    width: 60px;
-    height: 40px;
+    border: 1px solid #000000;
+    width: 600px;
+    height: 400px;
     text-align: center;
+    box-sizing: border-box;
 }
 
 #title{
     width:20px;
     height:30px;
+}
+td img {
+    width: 100%;
+    
 }
