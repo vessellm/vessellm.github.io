@@ -1,0 +1,12 @@
+body{
+    background-color: orange;
+    font-family:cursive
+}
+#wrapper{
+    position:relative;
+    background-color: olive;
+    border-radius:100%;
+    Text-align:center;
+    font-size:30px;
+    font-style:oblique;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color:#80EF80;
+    color:seagreen;
+    text-shadow: 00 2px white;
+}
+Section{
+    padding-top: 200px;
+}
+#styledtable{
+    border-collapse: collapse;
+}
+#styledtable td{
+    border: 100px, solid black;
+    width: 600px;
+    height: 400px;
+    box-sizing: border-box;
+}
+.cat{
+width:100%;
+height:600px;
+}
+.cat:hover:hover{
+    color:black;
+}

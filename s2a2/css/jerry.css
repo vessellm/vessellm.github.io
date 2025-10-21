@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20pt;
+    background-color: aqua;
+    color: #782cab;
+    float:left;
+
+}
+
+@media only screen and (max-width:1082px) {
+    body {
+        background-color: #782cab;
+        color: aqua;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+}
+
+
+#wrapper {
+    position: absolute font-family: helvetica;
+    font-style: italic;
+    Font-size: 35px;
+    Height: 200px;
+    width: 500px;
+    border-color: aqua;
+    background-color: pink;
+    border-radius: 40px;
+    text-align: center;
+    color: purple;
+   
+}
+
+.riddle {
+    position: relative;
+    float:left;
+    font-family: helvetica;
+    font-style: italic;
+    Font-size: 35px;
+    Height: 200px;
+    width: 500px;
+    border-color: aqua;
+    background-color: pink;
+    border-radius: 40px;
+    text-align: center;
+    color: purple;
+    margin: 10px;
+    padding: 10px;
+}
+
+.riddle:hover {
+    background: linear-gradient(to right, purple, red);
+    box-shadow: 0 0 150px blue;
+    opacity:95%;
+    transform:scaleY(145%);
+   
+}
