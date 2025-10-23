@@ -60,10 +60,11 @@ body {
     width:500px;
     height: auto;
 }
-.detective{
-    width: 100px;
+.finger{
+    width: 200px;
     height: auto;
     position:relative;
+    bottom:20px;
 }
 .mystery{
     width:140px;

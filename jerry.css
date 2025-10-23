@@ -56,3 +56,30 @@ body {
     transform:scaleY(145%);
    
 }
+.figure{
+    width:500px;
+    height: auto;
+}
+.finger{
+    width: 200px;
+    height: auto;
+    position:relative;
+    bottom:20px;
+}
+.mystery{
+    width:140px;
+    height:auto;
+    position:relative;
+   top:10px;
+}
+.holmes{
+    width:100px;
+    height:auto;
+    position: relative;
+}
+.watson{
+    width:130px;
+    height:auto;
+    position:relative;
+    top:9px;
+}
